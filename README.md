@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hajimemanila/hajimemanila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hajime X-Ops
 
-Here are some ideas to get you started:
+**Automation Engineer / Vanguard Architect**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Stop clicking. Start operating.*
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,js,ts,react,html,css,github,vscode,powershell,vim,regex" />
+</a>
+
+<br><br>
+
+### ⚔️ Current Mission: [X Ops Vanguard](https://github.com/hajimemanila/X-Ops-Vanguard)
+I build tools to bypass UI bottlenecks and achieve **Zero Latency** workflows.
+
+| Tool | Status | Role |
+| :--- | :---: | :--- |
+| **🦊 Fox Walker** | `Active` | Keyboard-centric Navigation for Firefox |
+| **👁️ Watchman** | `Active` | Intelligent Tab Monitoring & Recovery |
+| **🧹 Cleaner** | `Active` | Automated Timeline Sanitization (Jitter/Stealth) |
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=hajimemanila&show_icons=true&theme=dark&hide_border=true" alt="Hajime's Stats" />
+
+</div>
