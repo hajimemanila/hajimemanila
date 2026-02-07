@@ -16,13 +16,15 @@
 <br><br>
 
 ### ⚔️ Current Mission: [X Ops Vanguard](https://github.com/hajimemanila/X-Ops-Vanguard)
+[![X Ops Vanguard - Zero Latency](https://img.shields.io/badge/X_OPS_VANGUARD-Zero_Latency-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/hajimemanila/X-Ops-Vanguard)
+
 I build tools to bypass UI bottlenecks and achieve **Zero Latency** workflows.
 
 | Tool | Status | Role |
 | :--- | :---: | :--- |
 | **🦊 Fox Walker** | `Active` | Keyboard-centric Navigation for Firefox |
 | **👁️ Watchman** | `Active` | Intelligent Tab Monitoring & Recovery |
-| **🧹 Cleaner** | `Active` | Automated Timeline Sanitization (Jitter/Stealth) |
+| **🧹 Zero Trace** | `Active` | Automated Timeline Sanitization (Jitter/Stealth) |
 
 ---
 
